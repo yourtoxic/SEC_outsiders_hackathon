@@ -24,8 +24,7 @@ Clone the repository and set up your environment by following the steps below ba
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/yourtoxic/SEC_outsiders_hackathon.git
 ```
 
 ### 2. Set Up a Virtual Environment & Install Dependencies
